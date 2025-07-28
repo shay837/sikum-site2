@@ -1,0 +1,5 @@
+{
+  "name": "Sikum Book Summaries",
+  "description": "A personal, clean, and structured website for showcasing manually written book summaries. This app features a dedicated internal editor for the owner to add and manage content, with all data stored locally. No AI or external services are used.",
+  "requestFramePermissions": []
+}
